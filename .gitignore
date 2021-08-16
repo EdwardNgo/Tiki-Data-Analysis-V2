@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+spark_code/data/raw_product
+spark_code/.Trash-0
+spark_code/.ipynb_checkpoints
+spark_code/data
