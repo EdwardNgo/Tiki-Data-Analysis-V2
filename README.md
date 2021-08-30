@@ -1,7 +1,7 @@
 # Tiki-Data-Analysis-V2
 Pipeline for getting the tiki data to analysis some attributes and making some dashboards
 
-<img src="https://i.ibb.co/bR5YXxp/kafka-kibana.png" style="width: 120%;" />
+<img src="https://github.com/EdwardNgo/Tiki-Data-Analysis-V2/blob/master/images/pipeline.png" style="width: 120%;" />
 
 ## Contents
 
